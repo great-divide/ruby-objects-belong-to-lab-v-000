@@ -4,6 +4,7 @@ class Post
   
   def initalize(title)
     @title = title
+    @author = author
   end
   
 end
